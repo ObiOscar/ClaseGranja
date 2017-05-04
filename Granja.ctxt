@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Granja()
+comment1.params=animalAAlimentar
+comment1.target=void\ alimentar(Animal)
+comment2.params=animalParaEscucharSonido
+comment2.target=void\ hacerEmitirSonidoCaracter\u00EDstico(Animal)
+numComments=3
